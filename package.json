@@ -2,20 +2,20 @@
   "name": "filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/AleksPastukhov/filmoteka",
+  "homepage": "https://github.com/Konstantin2023/filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AleksPastukhov/filmoteka.git"
+    "url": "git+https://github.com/Konstantin2023/filmoteka.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AleksPastukhov/filmoteka/issues"
+    "url": "https://github.com/Konstantin2023/filmoteka/issues"
   },
   "dependencies": {
     "axios": "^1.3.1",
